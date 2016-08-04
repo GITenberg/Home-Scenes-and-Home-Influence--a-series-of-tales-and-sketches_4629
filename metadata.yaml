@@ -1,0 +1,37 @@
+_repo: Home-Scenes-and-Home-Influence--a-series-of-tales-and-sketches_4629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Taking comfort -- Children: a family scene -- Losing one''s temper
+  -- Trouble with servants -- Haven''t the change -- Old maids'' children -- The mother
+  and boy -- The Christmas party -- Is she a lady? -- Going into mourning -- If that
+  were my child -- I will! -- A mother''s influence -- The power of patience -- An
+  old man''s recollections.'
+title: Home Scenes and Home Influence; a series of tales and sketches
+url: http://www.gutenberg.org/ebooks/4629
